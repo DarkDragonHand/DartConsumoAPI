@@ -1,0 +1,26 @@
+{
+    "nome": "Guilherme Potter Petry",
+    "idade": 29,
+    "nomeCursos": ["Academia do Flutter", "Imersão GetX"],
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "Academia do Flutter",
+            "isAluno": true
+        },
+        {
+            "id": 2,
+            "nome": "Imersão GetX",
+            "isAluno": false
+        }
+    ],
+    "telefone": {
+        "ddd": 11,
+        "telefone": "1234567890"
+    },
+    "endereco": {
+        "rua": 11,
+        "numero": 123,
+        "CEP": 987654321
+    }
+}
